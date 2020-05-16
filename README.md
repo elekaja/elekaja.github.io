@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/elekaja/elekaja.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You've reached my Github page consolidating the main info and some of my work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who am I?
 
-### Markdown
+### Specialities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+User-focused Product Development, Data and Insights, Artificial Intelligence.
+#ai #datascience #machinelearning #userexperience
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
+Diploma in Computer Science. Tallinn University of Technology.
 
-- Bulleted
-- List
+### Work
 
-1. Numbered
-2. List
+Currently building an AI Platform at Peltarion.
+Previously Data-driven Product development at Skype and Spotify.
 
-**Bold** and _Italic_ and `Code` text
+Deepdived into software development in 1999. 
 
-[Link](url) and ![Image](src)
-```
+Over the years done: business requirements, system analysis and design, development, systems integration, data migration, systems upgrade, tools implementation, data warehousing, business intelligence reporting requirements and development, quality assurance, project management.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Experience in working with large-scaled custom information systems and data warehousing solutions mainly for finance, telecom, government sector, energy and retail sales business.
 
-### Jekyll Themes
+Enabling the power of data in the benefit of business. Designing telemetry for insights. Passion for user experience, usability and interaction design. Data-driven decision making. Product Development. Artificial Intelligence and Deep Learning.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elekaja/elekaja.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Outside office
 
-### Support or Contact
+Born in Estonia, currently living in Sweden. 
+Curious and active.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Short about.me](https://about.me/elekaja)
+
+## Portfolio
+
+Watch out this space for the links to most interesting projects I've been looking into. 
+
+##  Contact
+
+Want to reach out? 
+[LinkedIn](https://www.linkedin.com/in/elekaja/) will help.
+
+
+### Site looks
+
+Site is using the layout and styles from [Jekyll](https://jekyllrb.com/) .
