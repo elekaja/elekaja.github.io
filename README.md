@@ -50,6 +50,8 @@ Curious and active.
 
 Want to reach out? 
 [LinkedIn](https://www.linkedin.com/in/elekaja/) will help.
+Blog
+[medium.com/@elekaja](https://www.medium.com/@elekaja/) 
 
 
 #### Site
